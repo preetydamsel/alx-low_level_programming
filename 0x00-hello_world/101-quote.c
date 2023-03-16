@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - prints a unix file to standard error
+ * main - Programm that displays unix file for this purpose
  * Return 1 (Sucess)
  */
 int main(void)
