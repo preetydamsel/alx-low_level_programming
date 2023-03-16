@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints "with proper grammar, but the outcome is a piece of art," followed by a new line
+ * main - A program that prints a piece of art
  * Return 0 (Success)
  */
 int main(void)
