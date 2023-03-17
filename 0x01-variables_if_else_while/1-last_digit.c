@@ -7,8 +7,10 @@
 
 /**
  * main - prints a text according number
- * Return: Always (Succes)
+ * Return: Always (Success)
  */
+
+int main(void)
 
 {
 	int n, lastd;
