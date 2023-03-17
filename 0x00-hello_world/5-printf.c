@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A programm to print out a file in a ddynamic style
+ * main - A programm to print out a file in a dynamic style
  * Return: 0 (Success)
  */
 
