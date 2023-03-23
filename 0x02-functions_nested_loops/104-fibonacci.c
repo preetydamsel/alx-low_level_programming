@@ -3,7 +3,7 @@
 /**
  * main - prints the first 98bb fibonanci numbers, starting with
  * 1 and 2, separated by a comma followed by a space.
- * Return: Always 0.
+ * Return: Always 0
  */
 
 int main(void)
