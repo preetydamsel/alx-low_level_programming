@@ -7,17 +7,17 @@ include "main.h"
 
 void more_numbers(void)
 {
-	int x, y;
+	int a, b;
 
-	for (x = 0; x < 10; x++)
+	for (a = 0; a < 10; a++)
 	{
-	for (y = 0; y <= 14; y++)
+	for (b = 0; b <= 14; b++)
 	{
-	if (y > 9)
+	if (b > 9)
 	{
-	_putchar((y / 10) + '0');
+	_putchar((b / 10) + '0');
 	}
-	_putchar((y % 10) + '0');
+	_putchar((b % 10) + '0');
 	}
 	_putchar('\n');
 	}
