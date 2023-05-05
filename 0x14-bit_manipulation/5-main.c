@@ -19,3 +19,4 @@ int main(void)
 	n = flip_bits(1024, 1025);
 	printf("%u\n", n);
 	return (0);
+}	
