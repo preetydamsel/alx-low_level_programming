@@ -1,12 +1,12 @@
 #include "main.h"
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 /**
  * error_file - checks if the files can be opened.
- * @file_from: file_from to another file.
+ * @file_from: from one file to another file.
  * @file_to: file_to.
- * @argv: arguments vector.
+ * @argv: arguments data.
  * Return: no return.
  */
 void error_file(int file_from, int file_to, char *argv[])
@@ -24,11 +24,11 @@ void error_file(int file_from, int file_to, char *argv[])
 }
 
 /**
- * main - Copies the contents of a file to another file.
- * @argc: The number of arguments supplied to the program.
+ * main - Copy the contents of a file to another file.
+ * @argc: The number of arguments given to the program.
  * @argv: An array of pointers to the arguments.
  *
- * Return: 0 on success.
+ * Return: 0 if successful.
  */
 int main(int argc, char *argv[])
 {
